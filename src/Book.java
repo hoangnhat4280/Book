@@ -28,7 +28,7 @@ public class Book {
         public double getPrice() {
             return this.price;
         }
-        public void setPrice(float newPrice) {
+        public void setPrice(double newPrice) {
             this.price = newPrice;
         }
 
